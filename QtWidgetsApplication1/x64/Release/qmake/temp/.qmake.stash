@@ -1,0 +1,26 @@
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1937
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 193732825
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
+QMAKE_CXX.INCDIRS = \
+    E:\\vs22\\vs\\VC\\Tools\\MSVC\\14.37.32822\\include \
+    E:\\vs22\\vs\\VC\\Tools\\MSVC\\14.37.32822\\atlmfc\\include \
+    E:\\vs22\\vs\\VC\\Auxiliary\\VS\\include \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\ucrt" \
+    E:\\vs22\\vs\\VC\\Auxiliary\\VS\\UnitTest\\include \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\um" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\shared" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\winrt" \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\cppwinrt" \
+    Include\\um
+QMAKE_CXX.LIBDIRS = \
+    E:\\vs22\\vs\\VC\\Tools\\MSVC\\14.37.32822\\lib\\x64 \
+    E:\\vs22\\vs\\VC\\Tools\\MSVC\\14.37.32822\\atlmfc\\lib\\x64 \
+    E:\\vs22\\vs\\VC\\Auxiliary\\VS\\lib\\x64 \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.22000.0\\ucrt\\x64" \
+    E:\\vs22\\vs\\VC\\Auxiliary\\VS\\UnitTest\\lib \
+    "C:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.22000.0\\um\\x64" \
+    lib\\um\\x64
